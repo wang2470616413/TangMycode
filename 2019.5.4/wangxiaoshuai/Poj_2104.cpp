@@ -6,7 +6,7 @@ int main()
     for (int i = 1; i < 10; i++) 
         if (i&1) a[i] = i;
         else a[i] = rand();
-    printf("%lld\n", a[1]);
+    printf("哈哈%lld\n", a[1]);
     vector<int> v;
     
     return 0;
